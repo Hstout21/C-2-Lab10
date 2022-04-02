@@ -1,0 +1,46 @@
+Script started on 2022-04-01 20:31:54-04:00 [TERM="xterm-256color" TTY="/dev/pts/0" COLUMNS="159" LINES="25"]
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab10[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab10[00m$ a.e[K[K[K./a.out
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+1
+Enter radius:2
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+3
+Enter height:2
+Enter base1:1
+Enter base2:3
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+2
+Enter Length:3
+Enter width:2
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+1
+Enter radius:3
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+2
+Enter Length:5
+Enter width:6
+Enter 1 to record a Circle.
+Enter 2 to record a Rectangle.
+Enter 3 to record a Trapezoid. 
+Enter 4 to quit and see total for the box.
+4
+The total cost of this box of blocks is $4042.04
+]0;hunter@DESKTOP-GT8U24P: /mnt/c/Users/hunte/Desktop/css2/lab10[01;32mhunter@DESKTOP-GT8U24P[00m:[01;34m/mnt/c/Users/hunte/Desktop/css2/lab10[00m$ exit
+exit
+
+Script done on 2022-04-01 20:32:34-04:00 [COMMAND_EXIT_CODE="0"]
